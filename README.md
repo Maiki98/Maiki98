@@ -55,10 +55,19 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-339933?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=339933)
 
 
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Maiki98}/count.svg" /></p> 
-<br></div>
-  
+<div align="center">
+  <br>
+  <p align="center"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Maiki98}/count.svg" /></p> 
+  <br>
+</div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>𝐂𝐎𝐃𝐀𝐑 É 𝐁𝐎𝐌 𝐃𝐄𝐌𝐀𝐈𝐒
+<div align="center">
+  <a href="https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif">
+    <img width=50% src="https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif" />
+  </a>
+</div>
+
+<p align="center">𝐂𝐎𝐃𝐀𝐑 É 𝐁𝐎𝐌 𝐃𝐄𝐌𝐀𝐈𝐒</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
