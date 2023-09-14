@@ -68,6 +68,14 @@
   </a>
 </div>
 
-<p align="center">𝐂𝐎𝐃𝐀𝐑 É 𝐁𝐎𝐌 𝐃𝐄𝐌𝐀𝐈𝐒</p>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
+```python
+World's
+#0
+👨‍💻Developer
+
+
+```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
 
